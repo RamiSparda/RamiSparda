@@ -1,55 +1,73 @@
-# [ ! ] ATENCIÓN: SLAYER DETECTADO EN EL SECTOR 
+[ ! ] ADVERTENCIA: INTERFAZ DE COMBATE ACTIVADA
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=000000&customColorList=10&height=200&section=header&text=RAMIRO%20TALQUENCA&fontSize=70&fontColor=FF0000" />
+<!-- Banner con fuente estilo DOOM -->
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D35%26pause%3D1000%26color%3DF81717%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DRIP%2BAND%2BTEAR%3BUN%2BSLAYER%2BHA%2BENTRADO%3BSISTEMA%2BOPERATIVO" alt="Typing SVG" />
 </p>
-
-## 📂 ESTADO DEL SISTEMA: OPERATIVO
-**Software Developer | Full Stack Explorer**
-
-> *"In the first age, in the first battle, when the shadows first lengthened, one stood..."*
-
----
-
-### 🛠 ARSENAL TECNOLÓGICO (SKILLS)
-
-| CATEGORÍA | EQUIPAMIENTO |
-| :--- | :--- |
-| **Frontend** | `React` `Next.js` `Tailwind CSS` |
-| **Backend** | `Node.js` `PHP` `Express` |
-| **Database** | `MySQL` `PostgreSQL` `MongoDB` |
-| **Sistemas** | `Git` `Linux` `Docker` |
-
----
-
-### 🦾 PROYECTO ACTUAL: [ IRONCORE ]
-Actualmente forjando **IronCore**, una plataforma de gestión de gimnasios diseñada para la máxima eficiencia y rendimiento. 
-
-- [ ] Optimización de rutinas de hipertrofia.
-- [ ] Digitalización de métricas de entrenamiento.
-- [ ] Interfaz de combate (UI/UX) de alto impacto.
-
----
-
-### 📊 MÉTRICAS DE COMBATE (GITHUB STATS)
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamiSparda&show_icons=true&theme=blood&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiSparda&layout=compact&langs_count=7&theme=blood" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Mayccoll/Gogh/master/content/banners/doom-banner.gif" width="100%" alt="Doom Banner" />
 </p>
 
----
+🛡️ ESTADO DEL SUJETO
 
-### 🌩️ TRANSMISIÓN FINAL
-* **Hobbies:** Entrenamiento de fuerza, Motos deportivas, Exploración de frameworks.
-* **Misión:** Escribir código tan limpio que los demonios no tengan donde esconderse.
-* **Ubicación:** [DATOS ENCRIPTADOS]
+Nombre: Ramiro Talquenca
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUI&label=PROFILE%20VIEWS&color=CE0000&style=flat" alt="Views" />
-</p>
+Clase: Full-Stack Developer / Combat Specialist
 
----
+Ubicación: Sector Argentina 🇦🇷
+
+Misión: Desarrollar software de alto impacto sin dejar rastro de bugs.
+
+📊 REGISTROS DE ACTIVIDAD (Estadísticas)
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidm96eWp5bmR5NjF4ZzRyeG5yZzRyeG5yZzRyeG5yZzRyeG5yJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/vYp95H86mFhHG/giphy.gif" width="100%" />
+<!-- Card de Estadísticas Generales -->
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRamiroTalquenca%26show_icons%3Dtrue%26theme%3Dblood%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" />
+
+<!-- Card de Lenguajes más usados -->
+
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRamiroTalquenca%26layout%3Dcompact%26langs_count%3D6%26theme%3Dblood%26hide_border%3Dtrue" />
+</p>
+
+<p align="center">
+<!-- Gráfico de racha (Streaks) -->
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DRamiroTalquenca%26theme%3Dblood%26hide_border%3Dtrue" alt="GitHub Streak" />
+</p>
+
+🦾 ARSENAL TÉCNICO
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" />
+</p>
+
+📂 EXPLORANDO SECTORES (PROYECTOS ACTIVOS)
+
+KUMO
+
+Sistema de Ventas Avanzado. Una solución integral para la gestión comercial y control de inventarios.
+
+IRONCORE
+
+Gestión de Alto Rendimiento. Plataforma diseñada para el control de gimnasios y optimización de entrenamientos.
+
+💬 TRANSMISIÓN DIRECTA
+
+<p align="center">
+<a href="mailto:tu-email@ejemplo.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/tu-perfil"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://forthebadge.com/images/badges/built-with-resentment.svg" height="25">
+<img src="https://www.google.com/search?q=https://forthebadge.com/images/badges/made-with-markdown.svg" height="25">
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/ZZTL1YLKZ48URCoC6B/giphy.gif" width="150" alt="Doom Slayer Pixel" />
 </p>
