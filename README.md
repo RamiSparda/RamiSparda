@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Mayccoll/Gogh/master/content/banners/doom-banner.gif" width="100%" alt="Doom Banner" />
+<img src="[https://www.google.com/search?q=https://raw.githubusercontent.com/Mayccoll/Gogh/master/content/banners/doom-banner.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/djwijwt-150a04be-77ff-4b3d-993a-5ebe7b15aec6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGp3aWp3dC0xNTBhMDRiZS03N2ZmLTRiM2QtOTkzYS01ZWJlN2IxNWFlYzYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KooZwKUa9wxeaoBPsRhRkjpEsq1S6Ft3ewt2lMczSj4)" width="100%" alt="Doom Banner" />
 </p>
 
 🛡️ ESTADO DEL SUJETO
