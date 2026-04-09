@@ -34,8 +34,8 @@ Actualmente forjando **IronCore**, una plataforma de gestión de gimnasios dise�
 ### 📊 MÉTRICAS DE COMBATE (GITHUB STATS)
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=blood&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&langs_count=7&theme=blood" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamiSparda&show_icons=true&theme=blood&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiSparda&layout=compact&langs_count=7&theme=blood" />
 </p>
 
 ---
